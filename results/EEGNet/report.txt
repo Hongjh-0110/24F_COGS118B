@@ -1,0 +1,40 @@
+subdataset 1 Acc: 77.08%
+subdataset 2 Acc: 50.00%
+subdataset 3 Acc: 90.62%
+subdataset 4 Acc: 54.17%
+subdataset 5 Acc: 31.25%
+subdataset 6 Acc: 42.36%
+subdataset 7 Acc: 69.44%
+subdataset 8 Acc: 75.69%
+subdataset 9 Acc: 84.38%
+mean_accuracy_test: 63.89%
+subdataset 1 Acc: 73.61%
+subdataset 2 Acc: 47.57%
+subdataset 3 Acc: 89.93%
+subdataset 4 Acc: 44.79%
+subdataset 5 Acc: 28.47%
+subdataset 6 Acc: 43.40%
+subdataset 7 Acc: 68.40%
+subdataset 8 Acc: 74.65%
+subdataset 9 Acc: 82.64%
+mean_accuracy_test: 61.50%
+subdataset 1 Acc: 84.38%
+subdataset 2 Acc: 50.00%
+subdataset 3 Acc: 90.62%
+subdataset 4 Acc: 58.68%
+subdataset 5 Acc: 53.12%
+subdataset 6 Acc: 50.35%
+subdataset 7 Acc: 74.65%
+subdataset 8 Acc: 85.76%
+subdataset 9 Acc: 86.46%
+mean_accuracy_test: 70.45%
+subdataset 1 Acc: 78.82%
+subdataset 2 Acc: 52.78%
+subdataset 3 Acc: 92.01%
+subdataset 4 Acc: 46.18%
+subdataset 5 Acc: 40.28%
+subdataset 6 Acc: 44.10%
+subdataset 7 Acc: 75.00%
+subdataset 8 Acc: 82.64%
+subdataset 9 Acc: 81.94%
+mean_accuracy_test: 65.97%

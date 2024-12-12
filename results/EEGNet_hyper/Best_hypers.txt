@@ -1,0 +1,30 @@
+Top Hyperparameters:
+Rank 1:
+learning_rate: 0.01, weight_decay: 0.001, batch_size: 64, optimizer: SGD, dropoutRate: 0.5, Average Acc: 0.6926
+
+Rank 2:
+learning_rate: 0.01, weight_decay: 0.002, batch_size: 64, optimizer: SGD, dropoutRate: 0.5, Average Acc: 0.6830
+
+Rank 3:
+learning_rate: 0.001, weight_decay: 0.002, batch_size: 64, optimizer: Adam, dropoutRate: 0.5, Average Acc: 0.6724
+
+Rank 4:
+learning_rate: 0.005, weight_decay: 0.002, batch_size: 64, optimizer: Adam, dropoutRate: 0.5, Average Acc: 0.6714
+
+Rank 5:
+learning_rate: 0.001, weight_decay: 0.001, batch_size: 64, optimizer: Adam, dropoutRate: 0.5, Average Acc: 0.6675
+
+Rank 6:
+learning_rate: 0.01, weight_decay: 0.0001, batch_size: 64, optimizer: SGD, dropoutRate: 0.5, Average Acc: 0.6639
+
+Rank 7:
+learning_rate: 0.005, weight_decay: 0.002, batch_size: 64, optimizer: SGD, dropoutRate: 0.5, Average Acc: 0.6631
+
+Rank 8:
+learning_rate: 0.01, weight_decay: 0.002, batch_size: 64, optimizer: SGD, dropoutRate: 0.25, Average Acc: 0.6589
+
+Rank 9:
+learning_rate: 0.002, weight_decay: 0.002, batch_size: 64, optimizer: Adam, dropoutRate: 0.5, Average Acc: 0.6581
+
+Rank 10:
+learning_rate: 0.005, weight_decay: 0.002, batch_size: 32, optimizer: SGD, dropoutRate: 0.5, Average Acc: 0.6566

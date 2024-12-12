@@ -1,0 +1,75 @@
+current hyperparameters set: learning_rate:0.001,weight_decay:0,batch_size=32,dropoutRate=0.5
+subdataset: 1 Fold: 1 Acc: 63.79%
+subdataset: 1 Fold: 2 Acc: 74.14%
+subdataset: 1 Fold: 3 Acc: 67.24%
+subdataset: 1 Fold: 4 Acc: 59.65%
+subdataset: 1 Fold: 5 Acc: 77.19%
+Sub1 learning_rate: 0.001,weight_decay: 0,batch_size: 32,optimizer: Adam,dropoutRate: 0.5,Acc: 0.6840290381125227
+current hyperparameters set: learning_rate:0.001,weight_decay:0,batch_size=32,dropoutRate=0.25
+subdataset: 1 Fold: 1 Acc: 56.90%
+subdataset: 1 Fold: 2 Acc: 60.34%
+subdataset: 1 Fold: 3 Acc: 70.69%
+subdataset: 1 Fold: 4 Acc: 59.65%
+subdataset: 1 Fold: 5 Acc: 75.44%
+Sub1 learning_rate: 0.001,weight_decay: 0,batch_size: 32,optimizer: Adam,dropoutRate: 0.25,Acc: 0.6460375075620085
+current hyperparameters set: learning_rate:0.001,weight_decay:0,batch_size=32,dropoutRate=0.5
+subdataset: 1 Fold: 1 Acc: 75.86%
+subdataset: 1 Fold: 2 Acc: 65.52%
+subdataset: 1 Fold: 3 Acc: 70.69%
+subdataset: 1 Fold: 4 Acc: 77.19%
+subdataset: 1 Fold: 5 Acc: 80.70%
+Sub1 learning_rate: 0.001,weight_decay: 0,batch_size: 32,optimizer: SGD,dropoutRate: 0.5,Acc: 0.7399274047186932
+current hyperparameters set: learning_rate:0.001,weight_decay:0,batch_size=32,dropoutRate=0.25
+subdataset: 1 Fold: 1 Acc: 70.69%
+subdataset: 1 Fold: 2 Acc: 67.24%
+subdataset: 1 Fold: 3 Acc: 74.14%
+subdataset: 1 Fold: 4 Acc: 73.68%
+subdataset: 1 Fold: 5 Acc: 73.68%
+Sub1 learning_rate: 0.001,weight_decay: 0,batch_size: 32,optimizer: SGD,dropoutRate: 0.25,Acc: 0.7188747731397459
+current hyperparameters set: learning_rate:0.001,weight_decay:0,batch_size=64,dropoutRate=0.5
+subdataset: 1 Fold: 1 Acc: 70.69%
+subdataset: 1 Fold: 2 Acc: 67.24%
+subdataset: 1 Fold: 3 Acc: 67.24%
+subdataset: 1 Fold: 4 Acc: 71.93%
+subdataset: 1 Fold: 5 Acc: 73.68%
+Sub1 learning_rate: 0.001,weight_decay: 0,batch_size: 64,optimizer: Adam,dropoutRate: 0.5,Acc: 0.7015728977616456
+current hyperparameters set: learning_rate:0.001,weight_decay:0,batch_size=64,dropoutRate=0.25
+subdataset: 1 Fold: 1 Acc: 65.52%
+subdataset: 1 Fold: 2 Acc: 65.52%
+subdataset: 1 Fold: 3 Acc: 68.97%
+subdataset: 1 Fold: 4 Acc: 66.67%
+subdataset: 1 Fold: 5 Acc: 80.70%
+Sub1 learning_rate: 0.001,weight_decay: 0,batch_size: 64,optimizer: Adam,dropoutRate: 0.25,Acc: 0.6947368421052631
+current hyperparameters set: learning_rate:0.001,weight_decay:0,batch_size=64,dropoutRate=0.5
+subdataset: 1 Fold: 1 Acc: 60.34%
+subdataset: 1 Fold: 2 Acc: 65.52%
+subdataset: 1 Fold: 3 Acc: 58.62%
+subdataset: 1 Fold: 4 Acc: 61.40%
+subdataset: 1 Fold: 5 Acc: 78.95%
+Sub1 learning_rate: 0.001,weight_decay: 0,batch_size: 64,optimizer: SGD,dropoutRate: 0.5,Acc: 0.6496672716273443
+current hyperparameters set: learning_rate:0.001,weight_decay:0,batch_size=64,dropoutRate=0.25
+subdataset: 1 Fold: 1 Acc: 68.97%
+subdataset: 1 Fold: 2 Acc: 70.69%
+subdataset: 1 Fold: 3 Acc: 65.52%
+subdataset: 1 Fold: 4 Acc: 70.18%
+subdataset: 1 Fold: 5 Acc: 77.19%
+Sub1 learning_rate: 0.001,weight_decay: 0,batch_size: 64,optimizer: SGD,dropoutRate: 0.25,Acc: 0.7050816696914701
+current hyperparameters set: learning_rate:0.001,weight_decay:0.0001,batch_size=32,dropoutRate=0.5
+subdataset: 1 Fold: 1 Acc: 63.79%
+subdataset: 1 Fold: 2 Acc: 60.34%
+subdataset: 1 Fold: 3 Acc: 65.52%
+subdataset: 1 Fold: 4 Acc: 64.91%
+subdataset: 1 Fold: 5 Acc: 71.93%
+Sub1 learning_rate: 0.001,weight_decay: 0.0001,batch_size: 32,optimizer: Adam,dropoutRate: 0.5,Acc: 0.652994555353902
+current hyperparameters set: learning_rate:0.001,weight_decay:0.0001,batch_size=32,dropoutRate=0.25
+subdataset: 1 Fold: 1 Acc: 56.90%
+subdataset: 1 Fold: 2 Acc: 65.52%
+subdataset: 1 Fold: 3 Acc: 67.24%
+subdataset: 1 Fold: 4 Acc: 64.91%
+subdataset: 1 Fold: 5 Acc: 70.18%
+Sub1 learning_rate: 0.001,weight_decay: 0.0001,batch_size: 32,optimizer: Adam,dropoutRate: 0.25,Acc: 0.6494857834240775
+current hyperparameters set: learning_rate:0.001,weight_decay:0.0001,batch_size=32,dropoutRate=0.5
+subdataset: 1 Fold: 1 Acc: 62.07%
+subdataset: 1 Fold: 2 Acc: 72.41%
+subdataset: 1 Fold: 3 Acc: 68.97%
+subdataset: 1 Fold: 4 Acc: 71.93%
